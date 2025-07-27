@@ -7,7 +7,9 @@
 @import './release-notes.scss';
 @import './starter-rules/journal.scss';
 
-.application.sheet,
+.application.sheet{
+height: 700px;
+}
 .application.dialog {
     --border-corner-svg: url('assets/icons/svg/sheet/border_corner.svg');
     --star-cosmere-svg: url('assets/icons/cosmere/svg/star_cosmere.svg');
