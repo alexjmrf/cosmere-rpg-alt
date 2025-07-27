@@ -1,7 +1,7 @@
 /**
  * String identifier for the system used throughout other scripts.
  */
-export const SYSTEM_ID = 'cosmere-rpg';
+export const SYSTEM_ID = 'cosmere-rpg-alt';
 
 /**
  * Full title string of the system.

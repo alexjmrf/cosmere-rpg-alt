@@ -100,52 +100,52 @@ const COSMERE: CosmereRPGConfig = {
     statuses: {
         [Status.Afflicted]: {
             label: 'COSMERE.Status.Afflicted',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/afflicted.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/afflicted.svg',
             reference:
                 'Compendium.cosmere-rpg.starter-rules.JournalEntry.4BfYSQ4DinrH4dPa.JournalEntryPage.jQvh7ULoKmh49sYA#afflicted',
             condition: true,
         },
         [Status.Blind]: {
             label: 'COSMERE.Status.Blind',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/blind.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/blind.svg',
             condition: false,
         },
         [Status.Burrowing]: {
             label: 'COSMERE.Status.Burrowing',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/burrowing.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/burrowing.svg',
             condition: false,
         },
         [Status.Determined]: {
             label: 'COSMERE.Status.Determined',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/determined.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/determined.svg',
             reference:
                 'Compendium.cosmere-rpg.starter-rules.JournalEntry.4BfYSQ4DinrH4dPa.JournalEntryPage.jQvh7ULoKmh49sYA#determined',
             condition: true,
         },
         [Status.Disoriented]: {
             label: 'COSMERE.Status.Disoriented',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/disoriented.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/disoriented.svg',
             reference:
                 'Compendium.cosmere-rpg.starter-rules.JournalEntry.4BfYSQ4DinrH4dPa.JournalEntryPage.jQvh7ULoKmh49sYA#disoriented',
             condition: true,
         },
         [Status.Empowered]: {
             label: 'COSMERE.Status.Empowered',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/empowered.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/empowered.svg',
             reference:
                 'Compendium.cosmere-rpg.starter-rules.JournalEntry.4BfYSQ4DinrH4dPa.JournalEntryPage.jQvh7ULoKmh49sYA#empowered',
             condition: true,
         },
         [Status.Enhanced]: {
             label: 'COSMERE.Status.Enhanced',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/enhanced.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/enhanced.svg',
             reference:
                 'Compendium.cosmere-rpg.starter-rules.JournalEntry.4BfYSQ4DinrH4dPa.JournalEntryPage.jQvh7ULoKmh49sYA#enhanced',
             condition: true,
         },
         [Status.Exhausted]: {
             label: 'COSMERE.Status.Exhausted',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/exhausted.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/exhausted.svg',
             reference:
                 'Compendium.cosmere-rpg.starter-rules.JournalEntry.4BfYSQ4DinrH4dPa.JournalEntryPage.jQvh7ULoKmh49sYA#exhausted',
             condition: true,
@@ -154,78 +154,78 @@ const COSMERE: CosmereRPGConfig = {
         },
         [Status.Flying]: {
             label: 'COSMERE.Status.Flying',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/flying.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/flying.svg',
             condition: false,
         },
         [Status.Focused]: {
             label: 'COSMERE.Status.Focused',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/focused.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/focused.svg',
             reference:
                 'Compendium.cosmere-rpg.starter-rules.JournalEntry.4BfYSQ4DinrH4dPa.JournalEntryPage.jQvh7ULoKmh49sYA#focused',
             condition: true,
         },
         [Status.Hidden]: {
             label: 'COSMERE.Status.Hidden',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/hidden.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/hidden.svg',
             condition: false,
         },
         [Status.Immobilized]: {
             label: 'COSMERE.Status.Immobilized',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/immobilized.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/immobilized.svg',
             reference:
                 'Compendium.cosmere-rpg.starter-rules.JournalEntry.4BfYSQ4DinrH4dPa.JournalEntryPage.jQvh7ULoKmh49sYA#immobilized',
             condition: true,
         },
         [Status.Invisible]: {
             label: 'COSMERE.Status.Invisible',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/invisible.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/invisible.svg',
             condition: false,
         },
         [Status.Prone]: {
             label: 'COSMERE.Status.Prone',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/prone.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/prone.svg',
             reference:
                 'Compendium.cosmere-rpg.starter-rules.JournalEntry.4BfYSQ4DinrH4dPa.JournalEntryPage.jQvh7ULoKmh49sYA#prone',
             condition: true,
         },
         [Status.Restrained]: {
             label: 'COSMERE.Status.Restrained',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/restrained.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/restrained.svg',
             reference:
                 'Compendium.cosmere-rpg.starter-rules.JournalEntry.4BfYSQ4DinrH4dPa.JournalEntryPage.jQvh7ULoKmh49sYA#restrained',
             condition: true,
         },
         [Status.Slowed]: {
             label: 'COSMERE.Status.Slowed',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/slowed.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/slowed.svg',
             reference:
                 'Compendium.cosmere-rpg.starter-rules.JournalEntry.4BfYSQ4DinrH4dPa.JournalEntryPage.jQvh7ULoKmh49sYA#slowed',
             condition: true,
         },
         [Status.Stunned]: {
             label: 'COSMERE.Status.Stunned',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/stunned.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/stunned.svg',
             reference:
                 'Compendium.cosmere-rpg.starter-rules.JournalEntry.4BfYSQ4DinrH4dPa.JournalEntryPage.jQvh7ULoKmh49sYA#stunned',
             condition: true,
         },
         [Status.Surprised]: {
             label: 'COSMERE.Status.Surprised',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/surprised.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/surprised.svg',
             reference:
                 'Compendium.cosmere-rpg.starter-rules.JournalEntry.4BfYSQ4DinrH4dPa.JournalEntryPage.jQvh7ULoKmh49sYA#surprised',
             condition: true,
         },
         [Status.Unconscious]: {
             label: 'COSMERE.Status.Unconscious',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/unconscious.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/unconscious.svg',
             reference:
                 'Compendium.cosmere-rpg.starter-rules.JournalEntry.4BfYSQ4DinrH4dPa.JournalEntryPage.jQvh7ULoKmh49sYA#unconscious',
             condition: true,
         },
         [Status.Dead]: {
             label: 'COSMERE.Status.Dead',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/conditions/dead.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/conditions/dead.svg',
             condition: true,
         },
     },
@@ -1068,29 +1068,29 @@ const COSMERE: CosmereRPGConfig = {
     damageTypes: {
         [DamageType.Energy]: {
             label: 'COSMERE.DamageTypes.Energy',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/damage/energy.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/damage/energy.svg',
         },
         [DamageType.Impact]: {
             label: 'COSMERE.DamageTypes.Impact',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/damage/impact.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/damage/impact.svg',
         },
         [DamageType.Keen]: {
             label: 'COSMERE.DamageTypes.Keen',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/damage/keen.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/damage/keen.svg',
         },
         [DamageType.Spirit]: {
             label: 'COSMERE.DamageTypes.Spirit',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/damage/spirit.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/damage/spirit.svg',
             ignoreDeflect: true,
         },
         [DamageType.Vital]: {
             label: 'COSMERE.DamageTypes.Vital',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/damage/vital.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/damage/vital.svg',
             ignoreDeflect: true,
         },
         [DamageType.Healing]: {
             label: 'COSMERE.DamageTypes.Healing',
-            icon: 'systems/cosmere-rpg/assets/icons/svg/damage/healing.svg',
+            icon: 'systems/cosmere-rpg-alt/assets/icons/svg/damage/healing.svg',
             ignoreDeflect: true,
         },
     },
