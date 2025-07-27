@@ -22,7 +22,7 @@ export class AdversarySheet extends BaseActorSheet<AdversarySheetRenderContext> 
             classes: [SYSTEM_ID, 'sheet', 'actor', 'adversary'],
             position: {
                 width: 850,
-                height: 850,
+                height: 700,
             },
             dragDrop: [
                 {

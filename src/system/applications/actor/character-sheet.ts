@@ -20,7 +20,7 @@ export class CharacterSheet extends BaseActorSheet {
             classes: [SYSTEM_ID, 'sheet', 'actor', 'character'],
             position: {
                 width: 850,
-                height: 1000,
+                height: 700,
             },
         },
     );
