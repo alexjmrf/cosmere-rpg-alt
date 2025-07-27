@@ -49,7 +49,7 @@
             "label": "Stormlight Starter Rules",
             "path": "packs/starter-rules",
             "type": "JournalEntry",
-            "system": "cosmere-rpg",
+            "system": "cosmere-rpg-alt",
             "ownership": {
                 "PLAYER": "OBSERVER",
                 "ASSISTANT": "OWNER"
@@ -65,7 +65,7 @@
             "label": "Items",
             "path": "packs/items",
             "type": "Item",
-            "system": "cosmere-rpg",
+            "system": "cosmere-rpg-alt",
             "ownership": {
                 "PLAYER": "OBSERVER",
                 "ASSISTANT": "OWNER"
@@ -76,7 +76,7 @@
             "label": "Ancestries",
             "path": "packs/ancestries",
             "type": "Item",
-            "system": "cosmere-rpg",
+            "system": "cosmere-rpg-alt",
             "ownership": {
                 "PLAYER": "OBSERVER",
                 "ASSISTANT": "OWNER"
@@ -87,7 +87,7 @@
             "label": "Cultures",
             "path": "packs/cultures",
             "type": "Item",
-            "system": "cosmere-rpg",
+            "system": "cosmere-rpg-alt",
             "ownership": {
                 "PLAYER": "OBSERVER",
                 "ASSISTANT": "OWNER"
@@ -98,7 +98,7 @@
             "label": "Heroic Paths",
             "path": "packs/heroic-paths",
             "type": "Item",
-            "system": "cosmere-rpg",
+            "system": "cosmere-rpg-alt",
             "ownership": {
                 "PLAYER": "OBSERVER",
                 "ASSISTANT": "OWNER"
@@ -109,7 +109,7 @@
             "label": "Actions",
             "path": "packs/actions",
             "type": "Item",
-            "system": "cosmere-rpg",
+            "system": "cosmere-rpg-alt",
             "ownership": {
                 "PLAYER": "OBSERVER",
                 "ASSISTANT": "OWNER"
@@ -124,12 +124,12 @@
                 "PLAYER": "OBSERVER",
                 "ASSISTANT": "OWNER"
             },
-            "system": "cosmere-rpg"
+            "system": "cosmere-rpg-alt"
         },
         {
             "name": "tables",
             "label": "Roll Tables",
-            "system": "cosmere-rpg",
+            "system": "cosmere-rpg-alt",
             "path": "packs/tables",
             "type": "RollTable",
             "ownership": {
@@ -166,7 +166,7 @@
         "distance": 5,
         "units": "ft"
     },
-    "background": "systems/cosmere-rpg/assets/art/foundry_setup_Cosmere_RPG.webp",
+    "background": "systems/cosmere-rpg-alt/assets/art/foundry_setup_Cosmere_RPG.webp",
     "url": "https://github.com/alexjmrf/cosmere-rpg-alt",
     "manifest": "https://raw.githubusercontent.com/alexjmrf/cosmere-rpg-alt/main/src/system.json",
     "download": "https://github.com/alexjmrf/cosmere-rpg-alt/releases/download/release-1.0.0/cosmere-rpg-release-1.0.0.zip"
